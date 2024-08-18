@@ -11,7 +11,7 @@
 ## About me
 - 🔭 I’m currently a Software Engineering student at RMIT.
   
-- 📫 How to reach me **contact@vohoangphuc.com** / **vohoangphuc@tuturuuu.com**.
+- 💬 Ayachi Nene from Sabbat of the witch is my favourite character
 
 ## Connect with me
 <p align="left">
