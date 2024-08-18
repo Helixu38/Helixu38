@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://raw.githubusercontent.com/Helixu38/Helixu38/main/images/background.png">
+        <img src="https://raw.githubusercontent.com/Helixu38/Helixu38/main/images/background.jpg">
     </a>
 </p>
 
