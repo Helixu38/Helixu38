@@ -1,5 +1,11 @@
 # [@Helixu38](https://github.com/Helixu38) / About me
 
+<p align="center">
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/Helixu38/Helixu38/main/images/background.png">
+    </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Nguyễn Mậu Bách.</h1>
 
 ## About me
