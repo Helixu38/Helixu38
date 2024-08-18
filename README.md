@@ -11,7 +11,7 @@
 ## About me
 - 🔭 I’m currently a Software Engineering student at RMIT.
   
-- 💬 Ayachi Nene from Sabbat of the witch is my favourite character
+- 💬 [Ayachi Nene](https://vndb.org/c26597) from Sabbat of the witch is my favourite character
 
 ## Connect with me
 <p align="left">
